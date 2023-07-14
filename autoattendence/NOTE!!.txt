@@ -1,0 +1,4 @@
+-make sure you download all the libraries from requirements.txt
+-install visual studio with "desktop development with c++"(help full for compiling cmake and dlib)
+-you can use your own training images by uploading them in Training_images" folder
+
