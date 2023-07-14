@@ -1,3 +1,0 @@
--make sure you download all the libraries in the reqiurements.txt
--download visual studio with desktop "development with  c/c++"(helps is compiling cmake and dlib)
--you can upload different training images in Training_images folder
